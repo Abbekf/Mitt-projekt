@@ -9,7 +9,7 @@ def numbergame():
     label = Label(number_window, text="tyvärr, servernm är offline!", font=("Arial", 20))
     label.pack(pady=20)
 
-
+# TODO: lös 
 def tictactoe():
     # Skapa ett nytt fönster för Tic Tac Toe
     tic_tac_toe_window = Toplevel()
